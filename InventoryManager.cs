@@ -1,5 +1,6 @@
-namespace InventoryManagementSystem
+using System.Collections.Generic;
 
+namespace InventoryManagementSystem
 {
   public class InventoryManager {
     private List<Product> products;
